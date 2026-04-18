@@ -1,7 +1,7 @@
 ---
 title: Mars Colonization 2030
 date: 2030-11-12
-image: https://unsplash.com
+image: https://images.stockcake.com/public/b/0/f/b0f9e027-05b5-454b-a5ee-686b3a7eb950_medium/martian-colony-vista-stockcake.jpg
 description: Living beyond the blue planet
 tags:
   - space
