@@ -1,6 +1,9 @@
 ---
 title: AI will change world
 date: 2026-04-14
+category: Lifestyle
+related_posts:
+  - 2026-04-18-ai-again-will-change-world
 image: https://ideas.darden.virginia.edu/sites/default/files/styles/full_width_1024px_5_3_/public/2024-09/AI%20ART%20ITA.jpg?itok=CIaF2iIX
 description: The changed future by AI
 tags:
