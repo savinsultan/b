@@ -30,7 +30,8 @@ jobs:
             const files = fs.readdirSync(blogDir)
               .filter(file => file.endsWith('.md'))
               .sort()
-              .reverse();
+              .reverse()
+              .map(file => file.replace(/\.md$/, ''));
 
             // 2. Clean up old blog_*.json files to avoid orphans
             const existingFiles = fs.readdirSync(outputDir);
