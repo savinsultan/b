@@ -1,0 +1,57 @@
+name: Generate Separate Blog Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/content/blog/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate Paginated JSON Files
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const blogDir = 'src/content/blog';
+            const outputDir = './'; // Files will be created in root
+            const pageSize = 100;
+            
+            // 1. Get and sort filenames (Latest to Oldest)
+            const files = fs.readdirSync(blogDir)
+              .filter(file => file.endsWith('.md'))
+              .sort()
+              .reverse();
+
+            // 2. Clean up old blog_*.json files to avoid orphans
+            const existingFiles = fs.readdirSync(outputDir);
+            existingFiles.forEach(file => {
+              if (file.startsWith('blog_') && file.endsWith('.json')) {
+                fs.unlinkSync(path.join(outputDir, file));
+              }
+            });
+
+            // 3. Create individual JSON files
+            for (let i = 0; i < files.length; i += pageSize) {
+              const pageNum = Math.floor(i / pageSize) + 1;
+              const fileName = `blog_${String(pageNum).padStart(5, '0')}.json`;
+              const pageData = files.slice(i, i + pageSize);
+              
+              fs.writeFileSync(fileName, JSON.stringify(pageData, null, 2));
+              console.log(`Created ${fileName} with ${pageData.length} entries.`);
+            }
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "docs: update paginated blog files [skip ci]"
+          add: "blog_*.json"
