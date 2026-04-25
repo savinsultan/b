@@ -1,6 +1,7 @@
 name: Generate Separate Blog Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
