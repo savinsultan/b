@@ -68,3 +68,5 @@ They can be worn as part of bridal and festive dressing, but they also work as s
 A good piece of traditional craft does more than complete an outfit.
 
 Rajasthani lac bangles carry memory, place, and craftsmanship in a form people can actually wear.
+
+You can find a bangle at [find a colorful lac bangle on amazon](https://amzn.to/4sWLKsb)
