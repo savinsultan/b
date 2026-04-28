@@ -19,7 +19,7 @@ Rajasthani lac bangles are one of them.
 
 ![rajasthani lac bangles on hands](/public/images/uploads/427q330k/lac-bangles-hands.avif)
 
-Lac bangles are a well-known part of Rajasthan’s craft tradition, and Jaipur is one of the best-known centers for this work.[web:72][web:77][web:79]
+Lac bangles are a well-known part of Rajasthan’s craft tradition, and Jaipur is one of the best-known centers for this work.
 
 They are bright, festive, handmade, and deeply connected to local identity.
 
@@ -29,7 +29,7 @@ They are bright, festive, handmade, and deeply connected to local identity.
 
 Lac bangles are not just decorative accessories.
 
-They also carry cultural meaning through weddings, festivals, and regional customs. Sources describing Jaipur’s lac bangle tradition note that specific colors and styles are associated with occasions such as weddings, Holi, Teej, Gangaur, and Karva Chauth.[web:72][web:75][web:65]
+They also carry cultural meaning through weddings, festivals, and regional customs. Sources describing Jaipur’s lac bangle tradition note that specific colors and styles are associated with occasions such as weddings, Holi, Teej, Gangaur, and Karva Chauth.
 
 ![colorful lac bangle designs](/public/images/uploads/427q330k/lac-bangles-design.avif)
 
@@ -41,7 +41,7 @@ That is why they continue to feel personal even in a market full of machine-made
 
 The process itself is part of what makes lac bangles special.
 
-Craft documentation explains that lac is heated, mixed with materials and color, shaped by hand, and then decorated with stones, mirrors, or other embellishments.[web:72][web:65]
+Craft documentation explains that lac is heated, mixed with materials and color, shaped by hand, and then decorated with stones, mirrors, or other embellishments.
 
 This handwork gives every set a warmer, more human character than factory-made fashion accessories.
 
@@ -49,9 +49,9 @@ This handwork gives every set a warmer, more human character than factory-made f
 
 ## Jaipur Connection
 
-Jaipur has long been associated with this craft, especially areas such as Maniharon ka Raasta, which are known for bangle-making and selling.[web:75][web:77][web:79]
+Jaipur has long been associated with this craft, especially areas such as Maniharon ka Raasta, which are known for bangle-making and selling.
 
-When people talk about traditional Rajasthani bangles, Jaipur is often the place that comes to mind first.[web:72][web:77]
+When people talk about traditional Rajasthani bangles, Jaipur is often the place that comes to mind first.
 
 ---
 
@@ -59,7 +59,7 @@ When people talk about traditional Rajasthani bangles, Jaipur is often the place
 
 Even now, lac bangles work in two ways at once.
 
-They can be worn as part of bridal and festive dressing, but they also work as statement accessories with contemporary outfits. Their appeal comes from color, texture, and the fact that handmade objects still feel more meaningful than generic products.[web:65][web:72]
+They can be worn as part of bridal and festive dressing, but they also work as statement accessories with contemporary outfits. Their appeal comes from color, texture, and the fact that handmade objects still feel more meaningful than generic products.
 
 ---
 
@@ -67,4 +67,4 @@ They can be worn as part of bridal and festive dressing, but they also work as s
 
 A good piece of traditional craft does more than complete an outfit.
 
-Rajasthani lac bangles carry memory, place, and craftsmanship in a form people can actually wear.[web:65][web:79]
+Rajasthani lac bangles carry memory, place, and craftsmanship in a form people can actually wear.
