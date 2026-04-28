@@ -27,7 +27,7 @@ Now?
 
 People are searching for very different words.
 
-Words like **micro-retirements**, **job hugging**, and **burnout** are showing up more often in India’s work-life conversation. Kantar’s India in Search 2026, as reported by Business Standard, says searches for job hugging rose 2,300 percent year over year, micro-retirements rose 800 percent, and occupational burnout rose 86 percent.[web:51]
+Words like **micro-retirements**, **job hugging**, and **burnout** are showing up more often in India’s work-life conversation. Kantar’s India in Search 2026, as reported by Business Standard, says searches for job hugging rose 2,300 percent year over year, micro-retirements rose 800 percent, and occupational burnout rose 86 percent.
 
 And that tells you something important.
 
@@ -75,7 +75,7 @@ Even responsible.
 
 But the idea behind it is different.
 
-It describes people staying tightly attached to their current jobs, not because they love them, but because the outside market feels uncertain. Reporting around the trend describes it as a fear-based response to layoffs, slow hiring, and economic instability.[web:97][web:100]
+It describes people staying tightly attached to their current jobs, not because they love them, but because the outside market feels uncertain. Reporting around the trend describes it as a fear-based response to layoffs, slow hiring, and economic instability.
 
 ![office desk work](/public/images/uploads/qwa4wgeq/office-desk.avif)
 
@@ -93,7 +93,7 @@ If someone stays in the wrong role for too long only out of fear, they may prote
 
 On the other side of the spectrum, micro-retirement feels almost rebellious.
 
-Instead of waiting until old age to rest, people are asking whether they should take shorter intentional breaks during their working years. Coverage of the trend describes it as a planned pause, often self-funded, used to recover, reset, travel, care for family, or rethink work before burnout becomes permanent.[web:98][web:101]
+Instead of waiting until old age to rest, people are asking whether they should take shorter intentional breaks during their working years. Coverage of the trend describes it as a planned pause, often self-funded, used to recover, reset, travel, care for family, or rethink work before burnout becomes permanent.
 
 ![office conversation](/public/images/uploads/qwa4wgeq/office-conversation.avif)
 
@@ -107,7 +107,7 @@ Enjoy life later.
 
 But for many people in 2026, “later” feels uncertain.
 
-That is why structured breaks are starting to look less irresponsible and more strategic.[web:96][web:99]
+That is why structured breaks are starting to look less irresponsible and more strategic.
 
 ---
 
@@ -131,7 +131,7 @@ The other says:
 
 “I cannot keep doing this without a pause.”
 
-Workplace reporting on micro-retirements and burnout says many younger professionals are rethinking long, uninterrupted work cycles because stress, disengagement, and mental fatigue are becoming harder to normalize.[web:96][web:98][web:99]
+Workplace reporting on micro-retirements and burnout says many younger professionals are rethinking long, uninterrupted work cycles because stress, disengagement, and mental fatigue are becoming harder to normalize.
 
 ---
 
@@ -209,4 +209,4 @@ They are about becoming more human.
 
 Micro-retirements, job hugging, and burnout are not just internet buzzwords.
 
-They are a sign that people are trying to renegotiate their relationship with work before work consumes the rest of life.[web:51][web:98][web:100]
+They are a sign that people are trying to renegotiate their relationship with work before work consumes the rest of life.
